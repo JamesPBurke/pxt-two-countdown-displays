@@ -1,5 +1,5 @@
 {
-    "name": "two-countdown-displays",
+    "name": "pxt-two-countdown-displays",
     "description": "",
     "dependencies": {
         "core": "*",
