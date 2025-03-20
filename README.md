@@ -1,5 +1,5 @@
 
-> Open this page at [https://jamespburke.github.io/two-countdown-displays/](https://jamespburke.github.io/two-countdown-displays/)
+> Open this page at [https://jamespburke.github.io/pxt-two-countdown-displays/](https://jamespburke.github.io/pxt-two-countdown-displays/)
 
 ## Use as Extension
 
