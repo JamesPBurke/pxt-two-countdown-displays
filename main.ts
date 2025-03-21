@@ -11,6 +11,7 @@ namespace boomDisplay {
     //% left_count.defl-100
     //% right_count.defl-100
     export function displayStatus(left_count: number, right_count: number) {
+        basic.clearScreen()
         for (let col = 0; col <= 1; col++) {
             for (let row = 0; row <= 4; row++) {
                 if (col * 5 + row < left_count) {
